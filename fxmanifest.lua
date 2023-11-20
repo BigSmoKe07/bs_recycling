@@ -5,7 +5,7 @@ game 'gta5'
 name         'bs_recycling'
 author       'BigSmoke07'
 version '1.0.0'
-repository 'NEED TO BE ADDED'
+repository 'https://github.com/BigSmoKe07/bs_recycling'
 license      'LGPL-3.0-or-later'
 description  'recycling script would enable players process recyclable materials at designated centres in the game'
 
